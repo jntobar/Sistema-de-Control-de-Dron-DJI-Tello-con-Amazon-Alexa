@@ -16,14 +16,14 @@ Este proyecto permite el control innovador de drones a través de comandos de vo
 4. clona el repositorio de la raspberry pi y ejecuta el archivo start.py ya con sus credenciales.
 
 ## Comandos a Utilizar
-Alexa, open drone pilot.
-Alexa, ask drone pilot connection status.
-Alexa, ask drone pilot status of battery. Otros valores posibles (wifi/battery/camera)
-Alexa, ask drone pilot to take off.
-Alexa, ask drone pilot to go left. Otros valores posibles (up/down/back/forward/left/right)
-Alexa, ask drone pilot to rotate left. Otros valores posibles (left/right)
-Alexa, ask drone pilot to flip.
-Alexa, ask drone pilot to land.
+1. Alexa, open drone pilot.
+2. Alexa, ask drone pilot connection status.
+3. Alexa, ask drone pilot status of battery. Otros valores posibles (wifi/battery/camera)
+4. Alexa, ask drone pilot to take off.
+5. Alexa, ask drone pilot to go left. Otros valores posibles (up/down/back/forward/left/right)
+6. Alexa, ask drone pilot to rotate left. Otros valores posibles (left/right)
+7. Alexa, ask drone pilot to flip.
+8. Alexa, ask drone pilot to land.
 
 
 
